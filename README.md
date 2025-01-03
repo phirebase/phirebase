@@ -46,7 +46,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200" />
