@@ -44,7 +44,13 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phirebase&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200" />
+</a>
 ---
 
 ## 🤝 Let's Connect!
@@ -54,5 +60,7 @@ I'm always looking to collaborate on interesting projects or share knowledge abo
 ---
 
 ⚡ **Fun Fact**: I believe great design is not just about aesthetics but about solving problems and enhancing usability.
+
+---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phirebase&label=Profile%20views&color=0e75b6&style=flat" alt="phirebase" /> </p>
