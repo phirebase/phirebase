@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. My expertise lies in:
 
--🖌️ Designing **modern, responsive websites** for WordPress and PrestaShop
--🔧 Developing custom themes, plugins, templates, and modules
--🚀 Crafting user-friendly and visually stunning digital experiences
+- 🖌️ Designing **modern, responsive websites** for WordPress and PrestaShop
+- 🔧 Developing custom themes, plugins, templates, and modules
+- 🚀 Crafting user-friendly and visually stunning digital experiences
 
 ---
 
 ## 🛠️ What I Do
 
-💡 **WordPress Specialist**: From custom themes to advanced plugins
-🛍️ **WooCommerce Expert**: Tailored eCommerce solutions
-🌱 Lifelong learner, exploring the latest web technologies and design trends
+- 💡 **WordPress Specialist**: From custom themes to advanced plugins
+- 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions
+- 🌱 Lifelong learner, exploring the latest web technologies and design trends
 
 ---
 
