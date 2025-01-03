@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm David Klhufek (phirebase)
+# 👋 Hello
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. My expertise lies in:
 
-🖌️ Designing **modern, responsive websites** for WordPress and PrestaShop
-🔧 Developing custom themes, plugins, templates, and modules
-🚀 Crafting user-friendly and visually stunning digital experiences
+-🖌️ Designing **modern, responsive websites** for WordPress and PrestaShop
+-🔧 Developing custom themes, plugins, templates, and modules
+-🚀 Crafting user-friendly and visually stunning digital experiences
 
 ---
 
