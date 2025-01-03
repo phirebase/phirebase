@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. My expertise lies in:
 
-- 🖌️ Designing **modern, responsive websites** for WordPress and PrestaShop
+- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce
 - 🔧 Developing custom themes, plugins, templates, and modules
 - 🚀 Crafting user-friendly and visually stunning digital experiences
 
@@ -33,10 +33,10 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 ## 🌍 About Me
 
-🇨🇿 Based in the Czech Republic
-💼 Freelancer working with clients worldwide
-🔗 Portfolio: [phirebase.com](https://phirebase.com/)
-📜 WordPress Profile: [brtak on WordPress.org](https://profiles.wordpress.org/brtak/)
+- 🇨🇿 Based in the Czech Republic
+- 💼 Freelancer working with clients worldwide
+- 🔗 Portfolio: [phirebase.com](https://phirebase.com/)
+📜 [WordPress Profile](https://profiles.wordpress.org/brtak/)
 
 ---
 
