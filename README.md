@@ -43,7 +43,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phirebase&show_icons=true&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=phirebase&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true" width="400">
 </p>
 
