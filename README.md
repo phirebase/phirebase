@@ -36,7 +36,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 - 🇨🇿 Based in the Czech Republic
 - 💼 Freelancer working with clients worldwide
 - 🔗 Portfolio: [phirebase.com](https://phirebase.com/)
-📜 [WordPress Profile](https://profiles.wordpress.org/brtak/)
+- 📜 [WordPress Profile](https://profiles.wordpress.org/brtak/)
 
 ---
 
