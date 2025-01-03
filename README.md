@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phirebase&show_icons=true&theme=dark" width="400">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phirebase&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true" width="400">
 </p>
 
