@@ -44,6 +44,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phirebase&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ## 🤝 Let's Connect!
