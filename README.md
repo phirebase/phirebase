@@ -42,7 +42,10 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 ## 📊 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=phirebase&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phirebase&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true" width="400">
+</p>
 
 ---
 
@@ -54,7 +57,4 @@ I'm always looking to collaborate on interesting projects or share knowledge abo
 
 ⚡ **Fun Fact**: I believe great design is not just about aesthetics but about solving problems and enhancing usability.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phirebase&label=Profile%20views&color=0e75b6&style=flat" alt="phirebase" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phirebase&" alt="phirebase" /></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phirebase&label=Profile%20views&color=0e75b6&style=flat" alt="phirebase" /> </p>
