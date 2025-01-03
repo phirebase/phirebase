@@ -41,13 +41,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phirebase&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-<p><img height=200 width=300 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&card_widtth=350" />  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200&card_widtth=150" /></p>
+<p><img height=200 width=350 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&card_widtth=350" />  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200&card_widtth=150" /></p>
 
 ---
 
