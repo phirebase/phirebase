@@ -1,19 +1,8 @@
 <!--
 **phirebase/phirebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-# 👋 Hello
+# Hi there 👋
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. My expertise lies in:
 
@@ -27,16 +16,18 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 - 💡 **WordPress Specialist**: From custom themes to advanced plugins
 - 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions
+- 🤝 Collaboration-focused, aiming to deliver exceptional results for every project
 - 🌱 Lifelong learner, exploring the latest web technologies and design trends
+- 💬 Passionate about helping others with WordPress and WooCommerce development
 
 ---
 
 ## 🌍 About Me
 
 - 📍 Based in the Czech Republic
-- 💼 Freelancer working with clients worldwide
-- 🔗 Portfolio: [phirebase.com](https://phirebase.com/)
-- 📜 [WordPress Profile](https://profiles.wordpress.org/brtak/)
+- 💼 Open to freelance collaborations and new projects!
+- 🔗 Website: [phirebase.com](https://phirebase.com/)
+- 📜 David Klhufek @ [WordPress Profile](https://profiles.wordpress.org/brtak/)
 
 ---
 
@@ -47,11 +38,11 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 ## 🤝 Let's Connect!
 
-I'm always looking to collaborate on interesting projects or share knowledge about WordPress and PrestaShop development. Feel free to reach out via my [website](https://phirebase.com/) or explore my repositories.
+Feel free to reach out via my [website](https://phirebase.com/), explore [my repositories](https://github.com/phirebase?tab=repositories), or drop a message if you'd like to collaborate. Let's build something amazing together!
 
 ---
 
-⚡ **Fun Fact**: I believe great design is not just about aesthetics but about solving problems and enhancing usability.
+⚡ **Fun Fact**: Great websites don’t just look good—they feel good to use.
 
 ---
 
