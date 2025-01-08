@@ -26,15 +26,16 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 - 📍 Based in the Czech Republic
 - 💼 Open to freelance collaborations and new projects!
-- 🔗 Website: [phirebase.com](https://phirebase.com/)
+- 🔗 Portfolio / Blog: [phirebase.com](https://phirebase.com/)
 - 📜 David Klhufek @ [WordPress Profile](https://profiles.wordpress.org/brtak/)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <p><img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&card_widtth=450" />  <img height=200 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200&card_widtth=330&langs_count=6" /></p>
 
 ---
+-->
 
 ## 🤝 Let's Connect!
 
@@ -42,7 +43,7 @@ Feel free to reach out via my [website](https://phirebase.com/), explore [my rep
 
 ---
 
-⚡ **Fun Fact**: Great websites don’t just look good—they feel good to use.
+⚡ **Fun Fact**: Great websites don’t just look good — they feel good to use.
 
 ---
 
