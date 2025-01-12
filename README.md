@@ -6,45 +6,47 @@
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. My expertise lies in:
 
-- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce
-- 🔧 Developing custom themes, plugins, templates, and modules
-- 🚀 Crafting user-friendly and visually stunning digital experiences
+- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
+- 🔧 Developing custom themes, plugins, templates, and modules.  
+- 🚀 Crafting user-friendly and visually stunning digital experiences.    
 
 ---
 
 ## 🛠️ What I Do
 
-- 💡 **WordPress Specialist**: From custom themes to advanced plugins
-- 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions
-- 🎨 **Divi Enthusiast**: Customizing and enhancing Divi websites to match unique needs 
-- 🤝 Collaboration-focused, aiming to deliver exceptional results for every project
-- 🌱 Lifelong learner, exploring the latest web technologies and design trends
-- 💬 Passionate about helping others with WordPress and WooCommerce development
+- 💡 **WordPress Specialist**: From custom themes to advanced plugins.  
+- 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions.  
+- 🎨 **Divi Enthusiast**: Customizing and enhancing Divi websites to match unique needs.  
+- 🤝 **Collaboration-Focused**: Delivering exceptional results for every project.  
+- 🌱 **Lifelong Learner**: Exploring the latest web technologies and design trends.    
+- 💬 **Community-Oriented**: Helping others with WordPress and WooCommerce development.    
+
+---
+
+## 📊 By the Numbers:
+
+- 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
+- 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
+- 🛠️ **17+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
 
 ---
 
 ## 🌍 About Me
 
-- 📍 Based in the Czech Republic
-- 💼 Open to freelance collaborations and new projects!
-- 🔗 Portfolio / Blog: [phirebase.com](https://phirebase.com/)
-- 📜 David Klhufek @ [WordPress Profile](https://profiles.wordpress.org/brtak/)
+- 📍 **Based in the Czech Republic**  
+- 💼 **Open to Freelance Collaborations and New Projects**  
+- 🔗 **Portfolio / Blog**: [phirebase.com](https://phirebase.com/)  
+- 📜 **WordPress Profile**: [David Klhufek](https://profiles.wordpress.org/brtak/)  
 
 ---
-<!--
-## 📊 GitHub Stats
-<p><img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phirebase&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&card_widtth=450" />  <img height=200 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phirebase&layout=compact&theme=dark&hide_border=true&card_height=200&card_widtth=330&langs_count=6" /></p>
-
----
--->
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out via my [website](https://phirebase.com/), explore [my repositories](https://github.com/phirebase?tab=repositories), or drop a message if you'd like to collaborate. Let's build something amazing together!
+Feel free to reach out via my [website](https://phirebase.com/), explore [my repositories](https://github.com/phirebase?tab=repositories), or drop a message if you'd like to collaborate. Let's build something amazing together! 🚀  
 
 ---
 
-⚡ **Fun Fact**: Great websites don’t just look good — they feel good to use.
+⚡ **Fun Fact**: Great websites don’t just look good — they feel good to use.  
 
 ---
 
