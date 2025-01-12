@@ -6,9 +6,10 @@
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
 <details>
-  <summary>▶</summary>
-My expertise lies in:
-
+  <summary>read more</summary>
+   
+My expertise lies in:  
+  
 - 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
 - 🔧 Developing custom themes, plugins, templates, and modules.  
 - 🚀 Crafting user-friendly and visually stunning digital experiences.    
