@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design. 
+I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
 My expertise lies in:
 
 - 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
