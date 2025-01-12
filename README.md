@@ -16,6 +16,7 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 - 💡 **WordPress Specialist**: From custom themes to advanced plugins
 - 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions
+- 🎨 **Divi Enthusiast**: Customizing and enhancing Divi websites to match unique needs 
 - 🤝 Collaboration-focused, aiming to deliver exceptional results for every project
 - 🌱 Lifelong learner, exploring the latest web technologies and design trends
 - 💬 Passionate about helping others with WordPress and WooCommerce development
