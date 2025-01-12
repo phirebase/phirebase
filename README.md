@@ -5,6 +5,8 @@
 # Hi there 👋
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
+<details>
+  <summary>►</summary>
 My expertise lies in:
 
 - 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
@@ -52,3 +54,4 @@ Feel free to reach out via my [website](https://phirebase.com/), explore [my rep
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phirebase&label=Profile%20views&color=0e75b6&style=flat" alt="phirebase" /> </p>
+</details>
