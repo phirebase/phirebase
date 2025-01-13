@@ -31,7 +31,7 @@ My expertise lies in:
 
 - 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
 - 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
-- 🛠️ **17+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
+- 🛠️ **20+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
 
 ---
 
