@@ -2,10 +2,6 @@
 **phirebase/phirebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋
-
-I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
-
 <p align="center">
   <samp>
     <a href="https://gravatar.com/davidklhufek">me</a> .
@@ -14,8 +10,8 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
     <a href="https://profiles.wordpress.org/brtak/">wordpress</a> .
     <a href="https://www.youtube.com/phirebase">youtube</a> .
     <a href="https://www.linkedin.com/in/phirebase/">linkedin</a> .
-    <a href="https://x.com/phirebase">x</a> .
     <a href="https://bsky.app/profile/phirebase.bsky.social">bluesky</a> .
+    <a href="https://x.com/phirebase">x</a> .
     <a href="https://www.pinterest.com/phirebase/">pinterest</a> .
     <a href="https://instagram.com/phirebase">instagram</a> .
     <a href="https://github.com/sponsors/phirebase">sponsor</a>
@@ -24,7 +20,13 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 <details>
   <summary>read more</summary>
-   
+
+# Hi there 👋
+
+I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
+
+---  
+ 
 My expertise lies in:  
   
 - 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
