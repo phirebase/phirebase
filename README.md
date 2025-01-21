@@ -5,6 +5,23 @@
 # Hi there 👋
 
 I'm a **freelance graphic and web designer** with a focus on creating exceptional web solutions that combine functionality and design.  
+
+<p align="center">
+  <samp>
+    <a href="https://gravatar.com/davidklhufek">me</a> .
+    <a href="https://phirebase.com/blog/">blog</a> .
+    <a href="https://phirebase.com/portfolio-web/">portfolio</a> .
+    <a href="https://profiles.wordpress.org/brtak/">wordpress</a> .
+    <a href="https://www.youtube.com/phirebase">youtube</a> .
+    <a href="https://www.linkedin.com/in/phirebase/">linkedin</a> .
+    <a href="https://x.com/phirebase">x</a> .
+    <a href="https://bsky.app/profile/phirebase.bsky.social">bluesky</a> .
+    <a href="https://www.pinterest.com/phirebase/">pinterest</a> .
+    <a href="https://instagram.com/phirebase">instagram</a> .
+    <a href="https://github.com/sponsors/phirebase">sponsor</a>
+  </samp>
+</p>
+
 <details>
   <summary>read more</summary>
    
