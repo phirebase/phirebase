@@ -70,7 +70,7 @@ Feel free to reach out via my [website](https://phirebase.com/), explore [my rep
 
 ---
 
-⚡ **Fun Fact**: Great websites don’t just look good — they feel good to use.  
+⚡ **Fun Fact**: Great websites don’t just look good - they feel good to use.  
 
 ---
 
