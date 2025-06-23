@@ -30,9 +30,9 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 My expertise lies in:  
   
-- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.    
+- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.
 - 🔧 Developing custom themes, plugins, templates, and modules.  
-- 🚀 Crafting user-friendly and visually stunning digital experiences.    
+- 🚀 Crafting user-friendly and visually stunning digital experiences.
 
 ---
 
@@ -42,12 +42,32 @@ My expertise lies in:
 - 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions.  
 - 🎨 **Divi Enthusiast**: Customizing and enhancing Divi websites to match unique needs.  
 - 🤝 **Collaboration-Focused**: Delivering exceptional results for every project.  
-- 🌱 **Lifelong Learner**: Exploring the latest web technologies and design trends.    
-- 💬 **Community-Oriented**: Helping others with WordPress and WooCommerce development.    
+- 🌱 **Lifelong Learner**: Exploring the latest web technologies and design trends.
+- 💬 **Community-Oriented**: Helping others with WordPress and WooCommerce development.
 
 ---
 
-## 📊 By the Numbers:
+## 🧰 Toolbox & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759b?logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Astro-ff5d01?logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📊 By the Numbers
 
 - 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
 - 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
@@ -64,7 +84,7 @@ My expertise lies in:
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 Feel free to reach out via my [website](https://phirebase.com/), explore [my repositories](https://github.com/phirebase?tab=repositories), or drop a message if you'd like to collaborate. Let's build something amazing together! 🚀  
 
