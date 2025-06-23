@@ -34,7 +34,7 @@ My expertise lies in:
 - 🔧 Developing custom themes, plugins, templates, and modules.  
 - 🚀 Crafting user-friendly and visually stunning digital experiences.
 
----
+---  
 
 ## 🛠️ What I Do
 
@@ -44,6 +44,16 @@ My expertise lies in:
 - 🤝 **Collaboration-Focused**: Delivering exceptional results for every project.  
 - 🌱 **Lifelong Learner**: Exploring the latest web technologies and design trends.
 - 💬 **Community-Oriented**: Helping others with WordPress and WooCommerce development.
+
+---  
+
+## 📊 By the Numbers
+
+- 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
+- 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
+- 🛠️ **20+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
+
+---  
 
 ## 🧰 Toolbox & Technologies
 
@@ -64,15 +74,7 @@ My expertise lies in:
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-## 📊 By the Numbers
-
-- 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
-- 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
-- 🛠️ **20+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
-
----
+---  
 
 ## 🌍 About Me
 
@@ -81,17 +83,17 @@ My expertise lies in:
 - 🔗 **Portfolio / Blog**: [phirebase.com](https://phirebase.com/)  
 - 📜 **WordPress Profile**: [David Klhufek](https://profiles.wordpress.org/brtak/)  
 
----
+---  
 
 ## 🤝 Let's Connect
 
 Feel free to reach out via my [website](https://phirebase.com/), explore [my repositories](https://github.com/phirebase?tab=repositories), or drop a message if you'd like to collaborate. Let's build something amazing together! 🚀  
 
----
+---  
 
 ⚡ **Fun Fact**: Great websites don’t just look good - they feel good to use.  
 
----
+---  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phirebase&label=Profile%20views&color=0e75b6&style=flat" alt="phirebase" /> </p>
 </details>
