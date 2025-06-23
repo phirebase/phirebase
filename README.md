@@ -30,13 +30,13 @@ I'm a **freelance graphic and web designer** with a focus on creating exceptiona
 
 My expertise lies in:  
   
-- 🖌️ Designing **modern, responsive websites** for WordPress and WooCommerce.
-- 🔧 Developing custom themes, plugins, templates, and modules.  
+- 💻 Designing **modern, responsive websites** for WordPress and WooCommerce.
+- 🛠️ Developing custom themes, plugins, templates, and modules.  
 - 🚀 Crafting user-friendly and visually stunning digital experiences.
 
 ---  
 
-## 🛠️ What I Do
+## 🔧 What I Do
 
 - 💡 **WordPress Specialist**: From custom themes to advanced plugins.  
 - 🛍️ **WooCommerce Expert**: Tailored eCommerce solutions.  
