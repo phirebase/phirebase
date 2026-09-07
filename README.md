@@ -50,7 +50,7 @@ My expertise lies in:
 ## 📊 By the Numbers
 
 - 🌐 **235+ Websites**: Modern, responsive, and user-friendly designs.  
-- 🖨️ **1540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
+- 🖨️ **2540 Prints**: From logos to marketing materials, crafted to make lasting impressions.  
 - 🛠️ **20+ Years of Experience**: Turning ideas into reality for businesses and individuals.  
 
 ---  
